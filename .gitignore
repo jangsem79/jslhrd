@@ -1,0 +1,29 @@
+# Eclipse
+.project
+.classpath
+.settings/
+.metadata/
+.recommenders/
+
+# Server / Build
+Servers/
+bin/
+target/
+build/
+
+# Compiled
+*.class
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Sensitive config
+# API / Secret files
+UseridRecommend.java
+config.properties
+context.xml
+
